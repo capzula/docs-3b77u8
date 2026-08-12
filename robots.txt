@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-1euw1b.inatogel78kjh.site/sitemap.xml
